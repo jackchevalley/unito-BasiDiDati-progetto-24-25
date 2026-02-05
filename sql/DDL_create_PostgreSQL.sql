@@ -332,3 +332,4 @@ CREATE TABLE prenotazioni_strutture
             ON UPDATE CASCADE
 );
 CREATE INDEX idx_prenotazioni_strutture_ID_utente ON prenotazioni_strutture (ID_utente);
+
