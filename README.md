@@ -11,10 +11,6 @@ NON copiate il progetto nella sua interezza, usatelo come spunto per fare il vos
 
 ## 📘 Educational Notice
 
-Questo progetto è pubblicato esclusivamente a scopo didattico, per studio e
-consultazione. Gli studenti sono liberi di leggere il codice, analizzarlo e
-prenderne spunto, ma **non è consentito riutilizzarlo o consegnarlo come
-proprio in altri esami, corsi o progetti universitari**.
+Questo progetto è pubblicato esclusivamente a scopo didattico, per studio e consultazione. Gli studenti sono liberi di leggere il progetto, analizzarlo e prenderne spunto, ma **non è consentito riutilizzarlo o consegnarlo come proprio in altri esami, corsi o progetti universitari**.
 
-L’autore non si assume alcuna responsabilità per eventuali violazioni dei
-regolamenti accademici o per l’uso improprio del codice.
+L’autore non si assume alcuna responsabilità per eventuali violazioni dei regolamenti accademici o per l’uso improprio del progetto.
