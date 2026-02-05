@@ -1,0 +1,21 @@
+DROP TABLE IF EXISTS prenotazioni_strutture CASCADE;
+DROP TABLE IF EXISTS strutture_trattamenti CASCADE;
+DROP TABLE IF EXISTS strutture_servizi CASCADE;
+DROP TABLE IF EXISTS strutture_aree_vicine CASCADE;
+DROP TABLE IF EXISTS presenze_itinerari CASCADE;
+DROP TABLE IF EXISTS prenotazioni_visite CASCADE;
+DROP TABLE IF EXISTS visite_organizzate CASCADE;
+DROP TABLE IF EXISTS guide_itinerari CASCADE;
+DROP TABLE IF EXISTS guide_licenze CASCADE;
+DROP TABLE IF EXISTS presenze CASCADE;
+DROP TABLE IF EXISTS area_naturale_commenti_piattaforma CASCADE;
+DROP TABLE IF EXISTS area_naturale_news CASCADE;
+DROP TABLE IF EXISTS itinerari CASCADE;
+DROP TABLE IF EXISTS centri_visita CASCADE;
+DROP TABLE IF EXISTS strutture CASCADE;
+DROP TABLE IF EXISTS guide CASCADE;
+DROP TABLE IF EXISTS utenti CASCADE;
+DROP TABLE IF EXISTS area_naturale CASCADE;
+DROP TABLE IF EXISTS tipologia_aree CASCADE;
+DROP TABLE IF EXISTS classificazione_aree CASCADE;
+
