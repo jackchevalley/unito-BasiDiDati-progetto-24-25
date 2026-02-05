@@ -25,6 +25,7 @@ La repository è organizzata nel seguente modo:
   Contiene i file ER (realizzati con draw.io) relativi allo schema Entità-Relazioni: 
   - ER originale
   - ER ristrutturato/finale
+  Per visionare i file caricateli su draw.io come nuovo progetto.
 
 
 **Pubblicato con ❤️ da [@JackChevalley ☭](https://t.me/JacksWork)**
