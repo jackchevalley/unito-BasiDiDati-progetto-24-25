@@ -6,6 +6,13 @@ Spero possa venir utile a qualcun nel preparare questo sbattimento di esame.<br>
 
 NON copiate il progetto nella sua interezza, usatelo come spunto per fare il vostro.
 
+
+"Progetto completo" è la consegna effettuata al docente <br>
+Dentro la cartella "sql" trovare i singoli file SQL prodotti da consegnare. <br>
+Dentro la cartella ER trovare il mio ER originale e ristrutturato.
+
+
+
 **Pubblicato con ❤️ da [@JackChevalley ☭](https://t.me/JacksWork)**
 <br>
 
