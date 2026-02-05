@@ -7,10 +7,24 @@ Spero possa venir utile a qualcun nel preparare questo sbattimento di esame.<br>
 NON copiate il progetto nella sua interezza, usatelo come spunto per fare il vostro.
 
 
-"Progetto completo" è la consegna effettuata al docente <br>
-Dentro la cartella "sql" trovare i singoli file SQL prodotti da consegnare. <br>
-Dentro la cartella ER trovare il mio ER originale e ristrutturato.
+## 📁 Struttura del progetto
 
+La repository è organizzata nel seguente modo:
+
+- **Progetto completo**  
+  Contiene la versione finale del progetto così come è stata consegnata al docente.
+
+- **sql/**  
+  Include tutti i file SQL prodotti per la consegna:
+  - Creazione tabell
+  - Inserimento dati nelle tabelle
+  - Operazioni sulle tabelle
+  - Eliminazione delle tabelle (ripristino per test)
+
+- **ER/**  
+  Contiene i file ER (realizzati con draw.io) relativi allo schema Entità-Relazioni: 
+  - ER originale
+  - ER ristrutturato/finale
 
 
 **Pubblicato con ❤️ da [@JackChevalley ☭](https://t.me/JacksWork)**
